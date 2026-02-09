@@ -40,7 +40,7 @@ RedENGINE is a specialized technical environment dedicated to **Lua script optim
 ---
 
 ### 🤝 Contact & Support
-For technical inquiries or framework integration assistance, please refer to the [Official Support Hub](https://luamenu.xyz).
+For technical inquiries or framework integration assistance, please refer to the [Redengine](https://luamenu.xyz) Support Page.
 
 <p align="center">
   <sub>© 2026 RedENGINE Development Team. High-performance software for the gaming industry.</sub>
